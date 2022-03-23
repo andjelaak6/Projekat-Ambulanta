@@ -1,0 +1,47 @@
+
+
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (1,1, 'Dva puta dnevno' convert(datetime '18-03-22  10:00:00 AM'5),1);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (2,2, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),2);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (3,3 ,'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),3);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId) VALUES (4,4, 'Dva puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),4);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId) VALUES (5,5, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),5);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (6,6 ,'Cetiri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),6);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (7,7, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),7);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (8,8 ,'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),8);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (9,9, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),9);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (10,10, 'Dva puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),10);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (11,11, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),11);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (12,12, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),12);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (13,13, 'Jednom dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),13);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (14,14, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),14);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (15,15, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),15);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (16,16, 'Dva puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),16);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (17,17, 'Jednom dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),17);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (18,18, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),18);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (19,19, 'Dva puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),19);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (20,20, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),20);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (21,21, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),21);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (22,22, 'Dva puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),22);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (23,23, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),23);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (24,24, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),24);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja, KartonPacijentaId) VALUES (25,25, 'Dva puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),25);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja, KartonPacijentaId) VALUES (26,26,'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),26 );
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (27,27, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),27 );
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId) VALUES (28,28, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),28);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (29,29, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),29);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (30,30 ,'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),30);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (31,31,'Dva puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),31);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja, KartonPacijentaId) VALUES (32,32, 'Jednom dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),32);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (33,33,'Dva puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),33);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (34,34, 'Tri puta dnevno' convert(datetime '18-03-22  10:00:00 AM'5),34 );
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja, KartonPacijentaId) VALUES (35,35, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),35);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (36,36, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),36);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (37,37, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),37);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (38,38, 'Jednom dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),38);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (39,39, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),39);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (40,40, 'Tri puta dnevno'  convert(datetime '18-03-22  10:00:00 AM'5),40);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja, KartonPacijentaId) VALUES (41,41,'Dva puta dnevno' convert(datetime '18-03-22  10:00:00 AM'5),41);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (42,42,'Tri puta dnevno'convert(datetime '18-03-22  10:00:00 AM'5),42);
+INSERT INTO Terapije(Id LekId Uputstvo DatumIzdavanja,KartonPacijentaId ) VALUES (43,43,'Tri puta dnevno' convert(datetime '18-03-22  10:00:00 AM'5),43);
+
+

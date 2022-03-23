@@ -1,0 +1,5 @@
+INSERT INTO Ambulante(Id, Naziv) VALUES (1,'Delijski Vis' );
+INSERT INTO Ambulante(Id, Naziv) VALUES (2,'Duvaniste');
+INSERT INTO Ambulante(Id, Naziv) VALUES (3,'Dom Zdravlja' );
+INSERT INTO Ambulante(Id, Naziv) VALUES (4,'Cair');
+
